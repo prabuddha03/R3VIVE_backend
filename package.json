@@ -1,0 +1,22 @@
+{
+  "name": "revive",
+  "version": "1.0.0",
+  "description": "Sustainability through waste management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prabuddha03/R3VIVE_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prabuddha03/R3VIVE_backend/issues"
+  },
+  "homepage": "https://github.com/prabuddha03/R3VIVE_backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
